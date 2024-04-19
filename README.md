@@ -42,4 +42,3 @@ Contributions to the deck, such as new card ideas, design improvements, or bug f
 
 If you have any feedback, suggestions, or questions regarding the Dependency Discovery Deck, feel free to open an issue on the repository or reach out to the maintainers directly.
 
-*Disclaimer: Dependency Discovery Deck is not affiliated with or endorsed by MHP - A Porsche Company.*
