@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Dependency Discovery Deck is a set of game cards designed to facilitate dependency detection in scaled Agile setups. Version 0.1 of the deck is now available, offering a novel approach to enhancing team communication and fostering psychological safety during meetings such as Backlog Refinement or PI Planning.
+The Dependency Discovery Deck is a set of game cards designed to facilitate dependency detection in scaled Agile setups. Version 2.0 of the deck is now available, offering a novel approach to enhancing team communication and fostering psychological safety during meetings such as Backlog Refinement or PI Planning.
 
 ## Features
 
@@ -10,6 +10,12 @@ The Dependency Discovery Deck is a set of game cards designed to facilitate depe
 - Boost psychological safety within your team.
 - Enhance structure and communication during meetings.
 - Based on expert interviews, primarily conducted at MHP - A Porsche Company.
+
+## Changes from Version 1.0 to Version 2.0
+
+- Four Backgrounds for printing the cards.
+- A card with rules.
+- More focused design and descriptions.
 
 ## Usage
 
@@ -19,10 +25,9 @@ There are multiple ways to incorporate the Dependency Discovery Deck into your t
 
 2. **Collective Removal** - Have the team collectively remove all the cards for a feature that doesn't have dependencies. This can streamline discussions by focusing attention on features with actual dependencies, making meetings more efficient.
 
-**Pair Collaboration** - Foster collaboration by having two team members share one set of cards. This encourages discussion, negotiation, and shared understanding of dependencies, ultimately strengthening teamwork and collaboration within the group.
+3. **Pair Collaboration** - Foster collaboration by having two team members share one set of cards. This encourages discussion, negotiation, and shared understanding of dependencies, ultimately strengthening teamwork and collaboration within the group.
 
 Feel free to experiment with these options to find the approach that works best for your team dynamics and meeting objectives.
-
 
 ## Future Updates
 
@@ -43,5 +48,5 @@ Contributions to the deck, such as new card ideas, design improvements, or bug f
 If you have any feedback, suggestions, or questions regarding the Dependency Discovery Deck, feel free to open an issue on the repository or reach out to the maintainers directly.
 
 ## Buy it
-Etsy: https://agilegames.etsy.com/listing/1712190266
 
+Etsy: [Dependency Discovery Deck on Etsy](https://agilegames.etsy.com/listing/1712190266)
